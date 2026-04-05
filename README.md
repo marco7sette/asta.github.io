@@ -1,20 +1,12 @@
 # Asta del Mobile
 
-React SPA per la catena di showroom di arredamento **Asta del Mobile** — 10 punti vendita tra Piemonte e Liguria.
+React SPA — 10 showroom Piemonte e Liguria.
 
-## Avvio locale
+## Deploy su GitHub Pages
 
 ```bash
 npm install
-npm start
+npm run deploy
 ```
 
-## Build produzione
-
-```bash
-npm run build
-```
-
-## Stack
-- React 18
-- Create React App
+L'app sarà disponibile su: `https://TUO_USERNAME.github.io/asta-del-mobile/`
